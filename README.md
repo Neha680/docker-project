@@ -6,6 +6,9 @@ Pre-requisites:
 2. Docker Engine
 3. Docker-compose
 
+![1](https://user-images.githubusercontent.com/64469502/81547094-fac8d800-9398-11ea-81af-b0dfa8028943.jpg)
+
+
 Implementation Steps
 
 Follow the below steps to successfuly configure the automation of Project:
