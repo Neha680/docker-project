@@ -1,21 +1,27 @@
 # docker-project
 infrastructure project based on docker
 
-Pre-requisites:
+# Pre requisites:
 1. OS: Redhat Enterprise Linix 8 or Centos8
 2. Docker Engine
 3. Docker-compose
 
+
+# Installation setup
+
+1. Initiallising Infrastructure setup
+
 ![1](https://user-images.githubusercontent.com/64469502/81547094-fac8d800-9398-11ea-81af-b0dfa8028943.jpg)
 
 ![2](https://user-images.githubusercontent.com/64469502/81547422-7460c600-9399-11ea-9f8f-74d10ba420a1.jpg)
-
+ 
 ![3](https://user-images.githubusercontent.com/64469502/81547727-e1745b80-9399-11ea-8ac5-4f16807c5ac1.jpg)
 
+![4](https://user-images.githubusercontent.com/64469502/81548020-429c2f00-939a-11ea-8148-3d41ecdfdd99.jpg)
 
 
 
-Implementation Steps
+# Implementation Steps
 
 Follow the below steps to successfuly configure the automation of Project:
 
@@ -52,8 +58,9 @@ The application server containers won't boot up until the code deployment is suc
 
 
 
-Source: LinuxWorld Informatics Pvt Ltd. Jaipur
 
-Under the Guidance of : Vimal Daga
+#Source: LinuxWorld Informatics Pvt Ltd. Jaipur
 
-Initiative: IIEC-RISE
+#Under the Guidance of : Vimal Daga
+
+#Initiative: IIEC-RISE
